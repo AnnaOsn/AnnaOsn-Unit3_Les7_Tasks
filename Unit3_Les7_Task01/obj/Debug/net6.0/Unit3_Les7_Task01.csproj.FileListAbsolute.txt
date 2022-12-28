@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\obj\Debug\net6.0\Unit3_Les7_Task01.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\obj\Debug\net6.0\Unit3_Les7_Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\obj\Debug\net6.0\Unit3_Les7_Task01.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\obj\Debug\net6.0\Unit3_Les7_Task01.AssemblyInfo.cs
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\obj\Debug\net6.0\Unit3_Les7_Task01.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\bin\Debug\net6.0\Unit3_Les7_Task01.exe
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\bin\Debug\net6.0\Unit3_Les7_Task01.deps.json
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\bin\Debug\net6.0\Unit3_Les7_Task01.runtimeconfig.json
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\bin\Debug\net6.0\Unit3_Les7_Task01.dll
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\bin\Debug\net6.0\Unit3_Les7_Task01.pdb
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\obj\Debug\net6.0\Unit3_Les7_Task01.dll
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\obj\Debug\net6.0\refint\Unit3_Les7_Task01.dll
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\obj\Debug\net6.0\Unit3_Les7_Task01.pdb
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\obj\Debug\net6.0\Unit3_Les7_Task01.genruntimeconfig.cache
+C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task01\obj\Debug\net6.0\ref\Unit3_Les7_Task01.dll
