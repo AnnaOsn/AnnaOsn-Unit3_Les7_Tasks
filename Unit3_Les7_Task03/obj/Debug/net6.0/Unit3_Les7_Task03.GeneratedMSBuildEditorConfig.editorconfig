@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Unit3_Les7_Task03
+build_property.ProjectDir = C:\Users\User\Documents\Тестировщик\3. Знакомство с языками программирования\семинар 7\Unit3_Les7_Tasks\Unit3_Les7_Task03\
